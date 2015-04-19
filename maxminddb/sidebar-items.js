@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Metadata",""],["Reader","A reader for the MaxMind DB format"]],"type":[["DbArray",""],["DbMap",""]],"enum":[["DataRecord",""],["MaxMindDBError",""]],"mod":[["geoip2",""]]});

@@ -1,0 +1,1 @@
+{"name":"maxminddb","counts":{"deprecated":0,"unstable":0,"stable":16,"unmarked":50},"submodules":[{"name":"geoip2","counts":{"deprecated":0,"unstable":0,"stable":10,"unmarked":22},"submodules":[{"name":"model","counts":{"deprecated":0,"unstable":0,"stable":8,"unmarked":17},"submodules":[]}]}]}

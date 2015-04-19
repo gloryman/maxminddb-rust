@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["model",""]],"struct":[["City","GeoIP2 City record"],["Country","GeoIP2 Country record"]]});
